@@ -1,18 +1,14 @@
 
 # Food-Delivery-App
 
+![Screenshot_20230722_134145](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/249edecb-caab-4cf0-91b6-5bf92009bd07)   
+  ![Screenshot_20230722_134706](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/dd8d8f92-3014-4c5e-b60a-053be145de25)
+  ![Screenshot_20230722_134733](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/e5c4a9e6-9f24-4e6b-ae02-67b9b4834565)
+![Screenshot_20230722_134722](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/cda450ea-e93b-4cfd-8d45-c3eef31dfd91)
 
-<img src="![Screenshot_20230722_134145](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/9096ea92-7a77-4a48-976d-49401b717f5d)
-" width="200" height="300"> 
 
-<img src="![Screenshot_20230722_134706](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/fe47b70d-974e-46ac-bb73-639f9b4bf945)
-" width="200" height="300"><br>
 
-<img src="![Screenshot_20230722_134722](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/b994ffb6-bcd0-4f1d-a872-930a34747a3d)
-" width="200" height="300">
 
-<img src="![Screenshot_20230722_134733](https://github.com/manishsubah/Food-Delivery-App/assets/119126206/ce437d4c-a7de-4165-ac1d-963672c43e99)
-" width="200" height="300"><br>
 
 
 
